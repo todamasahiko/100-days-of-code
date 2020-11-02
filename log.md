@@ -1,30 +1,18 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - 学習ログ
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### 0日目: 2020/11/02(月)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+#### 前提
+JavaScriptを改めて理解するために下記参考書に取り組む
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+#### 状況報告 
+生形可奈子『スラスラわかるJavaScript』 第4章 基本文法(構成、変数、演算子、配列、連想配列)
+　　　　　　　　　　　　　　　　　　　 第5章 制御構文（if文、switch文、while文、for文）
 
-**Link to work:** [Calculator App](http://www.example.com)
+#### 感想
+配列の見方や書き方が曖昧になっていたため、再認識ができた。
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+繰り返し構文においても、役割を混在していた点が、改善された。
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+#### 明日の予定 
+生形可奈子『スラスラわかるJavaScript』 第5章 制御構文（for-in文、繰り返しの制御）、第6章 関数
