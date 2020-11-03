@@ -1,6 +1,6 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2020/11/02(月)
+## 0日目: 2020/11/02(月)
 
 #### 前提
 JavaScriptを改めて理解するために参考書に取り組む
@@ -20,7 +20,7 @@ JavaScriptを改めて理解するために参考書に取り組む
 #### 明日の予定 
 生形可奈子『スラスラわかるJavaScript』 第5章 制御構文（for-in文、繰り返しの制御）、第6章 関数
 
-### 1日目: 2020/11/03(火)
+## 1日目: 2020/11/03(火)
 
 #### 状況報告 
 ①生形可奈子『スラスラわかるJavaScript』 
@@ -51,3 +51,5 @@ JavaScriptと似ている文法もあり、再度確認が行える部分が多�
 https://github.com/todamasahiko/JavaScript
 
 https://qiita.com/mktd/items/e3e910e4d488503c5ea9
+
+https://github.com/todamasahiko/Java
