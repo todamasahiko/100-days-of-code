@@ -53,3 +53,31 @@ https://github.com/todamasahiko/JavaScript
 https://qiita.com/mktd/items/e3e910e4d488503c5ea9
 
 https://github.com/todamasahiko/Java
+
+## 2日目: 2020/11/04(水)
+
+#### 状況報告 
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』
+
+第2章 式と演算子(計算、オペランド、評価、演算子、変換、命令実行)
+
+第3章 条件分岐と繰り返し（条件式、制御構文）
+
+第4章 配列（例外、後片付け、多次元配列）
+
+#### 感想
+JavaScriptと仕組みが似ている部分もあったが、理解に苦戦している。
+
+#### 明日の予定 
+①生形可奈子『スラスラわかるJavaScript』 
+
+第7章 オブジェクトの基礎、第8章 イベント
+
+②中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+
+第5章 メソッド、第6章 複数クラスを用いた開発
+
+#### リンク
+https://qiita.com/mktd/items/a48d5d887643e00186c8
+
+https://github.com/todamasahiko/Java
