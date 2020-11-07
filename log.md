@@ -23,12 +23,12 @@ JavaScriptを改めて理解するために参考書に取り組む
 ## 1日目: 2020/11/03(火)
 
 #### 状況報告 
-①生形可奈子『スラスラわかるJavaScript』 
+生形可奈子『スラスラわかるJavaScript』 
 
 第5章 制御構文（for-in文、繰り返しの制御）
 第6章 関数（自作関数、組み込み関数、変数のスコープ、匿名関数、即時関数）
 
-②中山清喬/国本大悟『スッキリわかるJava入門 第3版』
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』
 
 第0章 Javaをはじめよう（プログラミングの準備）
 第1章 プログラムの書き方（基礎知識、基本構造、変数、定数）
@@ -39,11 +39,11 @@ Javaのコンパイルと実行の部分が少し戸惑った。
 JavaScriptと似ている文法もあり、再度確認が行える部分が多いと感じた。
 
 #### 明日の予定 
-①生形可奈子『スラスラわかるJavaScript』 
+生形可奈子『スラスラわかるJavaScript』 
 
 第7章 オブジェクトの基礎、第8章 イベント
 
-②中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
 
 第2章 式と演算子、第3章 条件分岐と繰り返し、第4章 配列、第5章 メソッド、第6章 複数クラスを用いた開発
 
@@ -80,8 +80,6 @@ JavaScriptと仕組みが似ている部分もあったが、理解に苦戦し�
 #### リンク
 https://qiita.com/mktd/items/a48d5d887643e00186c8
 
-https://github.com/todamasahiko/Java
-
 ## 3日目: 2020/11/05(木)
 
 #### 状況報告 
@@ -104,15 +102,6 @@ https://github.com/todamasahiko/Java
 中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
 
 第6章 複数クラスを用いた開発
-
-#### リンク
-https://qiita.com/mktd/items/a48d5d887643e00186c8
-
-https://github.com/todamasahiko/Java
-
-https://qiita.com/mktd/items/e3e910e4d488503c5ea9
-
-https://github.com/todamasahiko/JavaScript
 
 ## 4日目: 2020/11/06(金)
 
@@ -145,10 +134,32 @@ https://github.com/todamasahiko/JavaScript
 第5章 式と関数
 
 #### リンク
-https://qiita.com/mktd/items/a48d5d887643e00186c8
-
-https://github.com/todamasahiko/Java
-
 https://github.com/todamasahiko/SQL
 
 https://qiita.com/mktd/items/ff8b6ba448f03f430fad
+
+## 5日目: 2020/11/07(土)
+
+#### 状況報告 
+中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
+
+第4章 検査結果の加工(DISTINCT、ORDER BY、OFFSET-FETCH、集合演算子)
+
+第5章 式と関数（文字列、数値、日付、変換にまつわる関数）
+
+生形可奈子『スラスラわかるJavaScript』 
+
+第8章 イベント(click、load、mouseover/mouseout、focus/blur、chamge)
+
+#### 明日の予定 
+生形可奈子『スラスラわかるJavaScript』 
+
+第9章 ブラウザオブジェクト
+
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+
+第7章 オブジェクト指向をはじめよう
+
+中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
+
+第6章 集計とグループ化
