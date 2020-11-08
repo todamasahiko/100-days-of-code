@@ -163,3 +163,43 @@ https://qiita.com/mktd/items/ff8b6ba448f03f430fad
 中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
 
 第6章 集計とグループ化
+
+
+## 6日目: 2020/11/08(日)
+
+#### 状況報告 
+生形可奈子『スラスラわかるJavaScript』 
+
+第9章 ブラウザオブジェクト(Window、Location、History、Documentオブジェクト)
+
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+
+第7章 オブジェクト指向をはじめよう(定義、全体像、本質)
+
+第8章 インスタンスとクラス(仮想世界、定義)
+
+#### 明日の予定 
+生形可奈子『スラスラわかるJavaScript』 
+
+第10章 DOM
+
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+
+第9章 さまざまなクラス機構
+
+中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
+
+第6章 集計とグループ化
+
+#### リンク
+https://github.com/todamasahiko/JavaScript
+
+https://qiita.com/mktd/items/e3e910e4d488503c5ea9
+
+https://github.com/todamasahiko/Java
+
+https://github.com/todamasahiko/SQL
+
+https://qiita.com/mktd/items/ff8b6ba448f03f430fad
+
+https://qiita.com/mktd/items/a48d5d887643e00186c8
