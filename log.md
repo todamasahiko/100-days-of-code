@@ -203,3 +203,43 @@ https://github.com/todamasahiko/SQL
 https://qiita.com/mktd/items/ff8b6ba448f03f430fad
 
 https://qiita.com/mktd/items/a48d5d887643e00186c8
+
+
+## 7日目: 2020/11/09(月)
+
+#### 状況報告 
+生形可奈子『スラスラわかるJavaScript』 
+
+第10章 DOM
+
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+
+第9章 さまざまなクラス機構
+
+中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
+
+第6章 集計とグループ化
+
+#### 明日の予定 
+面接対策
+
+中山清喬/国本大悟『スッキリわかるJava入門 第3版』 
+
+第10章 継承
+
+中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
+
+第7章 副問い合わせ 
+
+#### リンク
+https://github.com/todamasahiko/JavaScript
+
+https://qiita.com/mktd/items/e3e910e4d488503c5ea9
+
+https://github.com/todamasahiko/Java
+
+https://github.com/todamasahiko/SQL
+
+https://qiita.com/mktd/items/ff8b6ba448f03f430fad
+
+https://qiita.com/mktd/items/a48d5d887643e00186c8
