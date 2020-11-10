@@ -236,6 +236,25 @@ https://github.com/todamasahiko/JavaScript
 
 https://qiita.com/mktd/items/e3e910e4d488503c5ea9
 
+
+## 8日目: 2020/11/10(火)
+
+#### 状況報告 
+中山清喬/飯田理恵子『スッキリわかるSQL入門 第2版』
+
+第7章 副問い合わせ
+
+#### 明日の予定 
+面接対策
+
+伊藤淳一『プロを目指す人のためのRuby入門』 
+
+第1章 本書を読み進める前に
+
+第2章 Rubyの基礎を理解する
+
+第3章 テストを自動化する
+
 https://github.com/todamasahiko/Java
 
 https://github.com/todamasahiko/SQL
