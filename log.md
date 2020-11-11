@@ -264,3 +264,9 @@ https://github.com/todamasahiko/SQL
 https://qiita.com/mktd/items/ff8b6ba448f03f430fad
 
 https://qiita.com/mktd/items/a48d5d887643e00186c8
+
+
+## 9日目: 2020/11/11(水)
+
+#### 状況報告 
+面接対策
