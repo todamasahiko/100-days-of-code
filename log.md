@@ -257,6 +257,7 @@ https://qiita.com/mktd/items/e3e910e4d488503c5ea9
 
 第3章 テストを自動化する
 
+#### リンク
 https://github.com/todamasahiko/Java
 
 https://github.com/todamasahiko/SQL
@@ -280,3 +281,20 @@ https://qiita.com/mktd/items/a48d5d887643e00186c8
 
 #### 状況報告 
 インフラエンジニアについて調べ物
+
+
+## 12日目: 2020/11/14(土)
+
+#### 状況報告 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+第1章　変数とデータ型
+
+#### 明日の予定 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+伊藤淳一『プロを目指す人のためのRuby入門』 
+
+#### リンク
+https://github.com/todamasahiko/Python
+https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
