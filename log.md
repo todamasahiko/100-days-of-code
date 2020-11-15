@@ -299,3 +299,21 @@ https://qiita.com/mktd/items/a48d5d887643e00186c8
 https://github.com/todamasahiko/Python
 
 https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
+
+
+## 13日目: 2020/11/15(日)
+
+#### 状況報告 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+第2章　コレクション
+
+#### 明日の予定 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+伊藤淳一『プロを目指す人のためのRuby入門』 
+
+#### リンク
+https://github.com/todamasahiko/Python
+
+https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
