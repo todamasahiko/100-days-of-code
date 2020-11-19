@@ -371,3 +371,19 @@ https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
 https://github.com/todamasahiko/Python
 
 https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
+
+
+## 17日目: 2020/11/19(木)
+
+#### 状況報告 
+伊藤淳一『プロを目指す人のためのRuby入門』 
+
+#### 明日の予定 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+伊藤淳一『プロを目指す人のためのRuby入門』 
+
+#### リンク
+https://qiita.com/mktd/items/103bb6492828dcb2de1c
+
+https://github.com/todamasahiko/Ruby
