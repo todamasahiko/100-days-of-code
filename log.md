@@ -387,3 +387,21 @@ https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
 https://qiita.com/mktd/items/103bb6492828dcb2de1c
 
 https://github.com/todamasahiko/Ruby
+
+
+## 18日目: 2020/11/20(金)
+
+#### 状況報告 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+第6章　オブジェクト　
+
+#### 明日の予定 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+伊藤淳一『プロを目指す人のためのRuby入門』 
+
+#### リンク
+https://github.com/todamasahiko/Python
+
+https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
