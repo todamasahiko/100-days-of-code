@@ -454,3 +454,16 @@ https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
 https://github.com/todamasahiko/Python
 
 https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
+
+
+## 22日目: 2020/11/26(木)
+
+#### 状況報告 
+国本大悟/須藤秋良『スッキリわかるPython入門』
+
+復習　
+
+#### リンク
+https://github.com/todamasahiko/Python
+
+https://qiita.com/mktd/items/9e0a0e6bcc3ec96eb8ce
